@@ -19,7 +19,11 @@
 				<Item Name="packagingytpee.ctl" Type="VI" URL="../packagingytpee.ctl"/>
 			</Item>
 			<Item Name="Packaging-machine" Type="Folder">
+				<Item Name="packaging-rpm.vi" Type="VI" URL="../packaging-machine/packaging-rpm.vi"/>
 				<Item Name="products.vi" Type="VI" URL="../packaging-machine/products.vi"/>
+			</Item>
+			<Item Name="Sounds" Type="Folder">
+				<Item Name="alarmmmmm.wav" Type="Document" URL="../../../Downloads/alarmmmmm.wav"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
