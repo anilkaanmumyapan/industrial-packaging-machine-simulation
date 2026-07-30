@@ -19,7 +19,6 @@
 				<Item Name="packagingytpee.ctl" Type="VI" URL="../packagingytpee.ctl"/>
 			</Item>
 			<Item Name="Packaging-machine" Type="Folder">
-				<Item Name="bar.vi" Type="VI" URL="../packaging-machine/bar.vi"/>
 				<Item Name="packaging-rpm.vi" Type="VI" URL="../packaging-machine/packaging-rpm.vi"/>
 				<Item Name="products.vi" Type="VI" URL="../packaging-machine/products.vi"/>
 			</Item>
