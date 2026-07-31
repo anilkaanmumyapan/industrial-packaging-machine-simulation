@@ -21,13 +21,12 @@
 			<Item Name="Packaging-machine" Type="Folder">
 				<Item Name="packaging-rpm.vi" Type="VI" URL="../packaging-machine/packaging-rpm.vi"/>
 				<Item Name="products.vi" Type="VI" URL="../packaging-machine/products.vi"/>
+				<Item Name="speeed.ctl" Type="VI" URL="../speeed.ctl"/>
 			</Item>
 			<Item Name="Sounds" Type="Folder">
-				<Item Name="alarmmmmm.wav" Type="Document" URL="../Sounds/alarmmmmm.wav"/>
+				<Item Name="emergency-alarm.wav" Type="Document" URL="../Sounds/emergency-alarm.wav"/>
 			</Item>
 		</Item>
-		<Item Name="speed.ctl" Type="VI" URL="../speed.ctl"/>
-		<Item Name="speeed.ctl" Type="VI" URL="../speeed.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
