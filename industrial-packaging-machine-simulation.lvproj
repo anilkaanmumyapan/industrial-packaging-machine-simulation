@@ -23,6 +23,9 @@
 				<Item Name="products.vi" Type="VI" URL="../packaging-machine/products.vi"/>
 				<Item Name="speeed.ctl" Type="VI" URL="../speeed.ctl"/>
 			</Item>
+			<Item Name="Sendtoserver" Type="Folder">
+				<Item Name="Packaging_SendToserver.vi" Type="VI" URL="../Packaging_SendToserver.vi"/>
+			</Item>
 			<Item Name="Sounds" Type="Folder">
 				<Item Name="emergency-alarm.wav" Type="Document" URL="../Sounds/emergency-alarm.wav"/>
 			</Item>
